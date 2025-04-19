@@ -1,0 +1,2 @@
+API_KEY = "c79c6b0f125a16c353e1567ffc7c9d4b"
+url = f"http://api.openweathermap.org/data/2.5/weather?q=Karachi&appid={API_KEY}"
